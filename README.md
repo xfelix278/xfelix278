@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working Prime-Scripts<br>🌱 I’m currently learning goofy.js-Drecks
+🔭 I’m currently working on Prime-Scripts<br>🌱 I’m currently learning goofy.js-Drecks
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/794300581874892800)](https://discord.com/users/794300581874892800)
 
